@@ -7,73 +7,73 @@
 ## Pages
 
 ### Home
-https://example.com
+https://forge-fleur.zappy5.app
 Explore Forge &amp; Fleur&#39;s collection of ethical handmade jewelry online. Each piece is uniquely handcrafted to celebrate your individuality. Shop artisan jewelry US now.
 
 ### Our Craft
-https://example.com/our-craft
+https://forge-fleur.zappy5.app/our-craft
 Step into our studio and witness the passion behind every piece. Learn how Forge &amp; Fleur creates ethical handmade jewelry online with time-honored techniques. Discover the artistry.
 
 ### Gift Guide
-https://example.com/gift-guide
+https://forge-fleur.zappy5.app/gift-guide
 Searching for a truly special present? Our gift guide is packed with unique handcrafted jewelry gifts for every style and moment. Give a one-of-a-kind story from Forge &amp; Fleur.
 
 ### Journal
-https://example.com/journal
+https://forge-fleur.zappy5.app/journal
 Dive into the Forge &amp; Fleur journal for style inspiration, artisan spotlights, and the stories woven into our handmade jewellery for women. Uncover the beauty behind each creation.
 
 ### Contact
-https://example.com/contact
+https://forge-fleur.zappy5.app/contact
 Have a question or a custom vision? Reach out to the Forge &amp; Fleur team. We&#39;re here to help you find ethical handmade jewelry online that feels made for you. Start the conversation.
 
 ### Products
-https://example.com/products
+https://forge-fleur.zappy5.app/products
 Our Products - Forge & Fleur
 
 ### Cart
-https://example.com/cart
+https://forge-fleur.zappy5.app/cart
 Your Cart
 
 ### Checkout
-https://example.com/checkout
+https://forge-fleur.zappy5.app/checkout
 Checkout
 
 ### Login
-https://example.com/login
+https://forge-fleur.zappy5.app/login
 Customer Login
 
 ### Account
-https://example.com/account
+https://forge-fleur.zappy5.app/account
 My Account
 
 ### Order Success
-https://example.com/order-success
+https://forge-fleur.zappy5.app/order-success
 Thank you for your order
 
 ### Product Detail
-https://example.com/product/:slug
+https://forge-fleur.zappy5.app/product/:slug
 Product Details - Forge & Fleur
 
 ### Category
-https://example.com/category/:slug
+https://forge-fleur.zappy5.app/category/:slug
 Products - Forge & Fleur
 
 ### Thank You | Forge & Fleur
-https://example.com/thank-you
+https://forge-fleur.zappy5.app/thank-you
 Forge & Fleur - Thank You | Forge & Fleur
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://forge-fleur.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://forge-fleur.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://forge-fleur.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Handmade Jewellery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://forge-fleur.zappy5.app/sitemap.xml
+- Robots: https://forge-fleur.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://forge-fleur.zappy5.app/llms-full.txt
+- Products (JSON): https://forge-fleur.zappy5.app/products.json
+- Products (Google Merchant RSS): https://forge-fleur.zappy5.app/product-feed.xml
