@@ -1,0 +1,108 @@
+# Forge & Fleur — Generative Engine Optimization Map
+
+> A handmade jewellery store focused on artisan-crafted pieces. The brand likely carries a personal, creative, and craft-forward identity, celebrating the uniqueness and individuality of each handcrafted item.
+
+---
+
+## Pages
+
+### Home
+https://forge-fleur-ae2c3f78.zappy5.app
+Explore Forge &amp; Fleur&#39;s collection of ethical handmade jewelry online. Each piece is uniquely handcrafted to celebrate your individuality. Shop artisan jewelry US now.
+
+### Our Craft
+https://forge-fleur-ae2c3f78.zappy5.app/our-craft
+Step into our studio and witness the passion behind every piece. Learn how Forge &amp; Fleur creates ethical handmade jewelry online with time-honored techniques. Discover the artistry.
+
+### Gift Guide
+https://forge-fleur-ae2c3f78.zappy5.app/gift-guide
+Searching for a truly special present? Our gift guide is packed with unique handcrafted jewelry gifts for every style and moment. Give a one-of-a-kind story from Forge &amp; Fleur.
+
+### Journal
+https://forge-fleur-ae2c3f78.zappy5.app/journal
+Dive into the Forge &amp; Fleur journal for style inspiration, artisan spotlights, and the stories woven into our handmade jewellery for women. Uncover the beauty behind each creation.
+
+### Contact
+https://forge-fleur-ae2c3f78.zappy5.app/contact
+Have a question or a custom vision? Reach out to the Forge &amp; Fleur team. We&#39;re here to help you find ethical handmade jewelry online that feels made for you. Start the conversation.
+
+### Products
+https://forge-fleur-ae2c3f78.zappy5.app/products
+Our Products - Forge & Fleur
+
+### Cart
+https://forge-fleur-ae2c3f78.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://forge-fleur-ae2c3f78.zappy5.app/checkout
+Checkout
+
+### Login
+https://forge-fleur-ae2c3f78.zappy5.app/login
+Customer Login
+
+### Account
+https://forge-fleur-ae2c3f78.zappy5.app/account
+My Account
+
+### Order Success
+https://forge-fleur-ae2c3f78.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://forge-fleur-ae2c3f78.zappy5.app/product/:slug
+Product Details - Forge & Fleur
+
+### Category
+https://forge-fleur-ae2c3f78.zappy5.app/category/:slug
+Products - Forge & Fleur
+
+### Thank You | Forge & Fleur
+https://forge-fleur-ae2c3f78.zappy5.app/thank-you
+Forge & Fleur - Thank You | Forge & Fleur
+
+## Legal & Policy
+
+### Privacy Policy
+https://forge-fleur-ae2c3f78.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://forge-fleur-ae2c3f78.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://forge-fleur-ae2c3f78.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Forge & Fleur
+A handmade jewellery store focused on artisan-crafted pieces. The brand likely carries a personal, creative, and craft-forward identity, celebrating the uniqueness and individuality of each handcrafted item.
+
+## Target Audience
+- Fashion-Forward Millennials
+- Ethically Conscious Shoppers
+- Thoughtful Gift Givers
+
+## Industry
+E-commerce / Handmade Jewellery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://forge-fleur-ae2c3f78.zappy5.app/sitemap.xml
+- Robots: https://forge-fleur-ae2c3f78.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://forge-fleur-ae2c3f78.zappy5.app/llms-full.txt
+- Products (JSON): https://forge-fleur-ae2c3f78.zappy5.app/products.json
+- Products (Google Merchant RSS): https://forge-fleur-ae2c3f78.zappy5.app/product-feed.xml
